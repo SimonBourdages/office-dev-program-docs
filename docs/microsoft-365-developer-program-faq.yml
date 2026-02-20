@@ -306,7 +306,7 @@ sections:
       - question: |
           When my subscription is about to expire, can I extend it?
         answer: |
-          The only way that you can extend your subscription is to engage in valid development activity. If you're not using your subscription to develop custom solutions, your subscription will expire and will eventually be deleted. Remember that developer tenants are ephemeral and intended for development and testing only. Microsoft reserves the right to require tenants to be recreated every 90 days, so always keep your data and configurations backed up outside of the developer tenant. 
+          The only way that you can extend your subscription is to engage in valid development activity. If you're not using your subscription to develop custom solutions, your subscription will expire and will eventually be deleted. Remember that developer tenants are short-lived and intended for development and testing only. Microsoft may require tenants to be recreated every 90 days, so always keep your data and configurations backed up outside of the developer tenant. 
           
       - question: |
           If my subscription is going to expire, how much time do I have before it is deleted?
