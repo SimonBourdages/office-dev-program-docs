@@ -104,7 +104,7 @@ sections:
         answer: |
           Qualified members are invited to set up a Microsoft 365 E5 developer subscription after joining the Microsoft 365 Developer Program. For details about qualified members, see [Who qualifies for a Microsoft 365 E5 developer subscription?](#who-qualifies-for-a-microsoft-365-e5-developer-subscription-).
           
-          The Microsoft 365 E5 developer subscription is designed to be used for development and testing purposes only. Developer tenants are intended to be ephemeral and may be subject to recreation every 90 days. Do not use your developer tenant as a production environment or store critical data that is not backed up elsewhere.
+          The Microsoft 365 E5 developer subscription is designed to be used for application development and testing purposes only. Developer tenants are intended to be ephemeral and may be subject to recreation every 90 days. Do not use your developer tenant as a production environment or store critical data that is not backed up elsewhere.
           
       - question: |
           How many Microsoft 365 developer subscriptions can I get via the Developer Program?  
