@@ -311,7 +311,7 @@ sections:
       - question: |
           If my subscription is going to expire, how much time do I have before it is deleted?
         answer: |
-          You have 30 days after your subscription expires to migrate any data. For the next 30 days, only the admin will have access to the subscription, and on day 60, the subscription and all data will be deleted. Because developer tenants are ephemeral and designed for development and testing purposes only, you should always maintain backups of your data and configurations outside of the developer tenant.
+          You have 30 days after your subscription expires to migrate any data. For the next 30 days, only the admin will have access to the subscription, and on day 60, the subscription and all data will be deleted. Because developer tenants are temporary and designed for development and testing purposes only, you should always maintain backups of your data and configurations outside of the developer tenant.
           
           <a name="account-types"> </a>
           
