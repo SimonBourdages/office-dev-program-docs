@@ -271,7 +271,7 @@ sections:
           Your subscription is good for up to 90 days, depending on your activity, and is renewable based on qualified developer activity. If you're using your subscription for development, it will be renewed regularly. You can find the expiration date, along with your subscription name, on your [Microsoft 365 Developer Program dashboard](https://aka.ms/DevProgramDashboard).
           
           > [!IMPORTANT]
-          > Developer tenants are intended for development and testing purposes only and should be treated as ephemeral. Microsoft reserves the right to require tenants to be recreated every 90 days. Do not rely on your developer tenant for production workloads or long-term data storage. Always ensure that your data and configurations are backed up outside of the developer tenant.
+          > Developer tenants are intended for development and testing purposes only and are short-lived by design. Microsoft may require tenants to be recreated every 90 days. Do not use a developer tenant for production workloads or long-term data storage. Always back up your data and configurations outside of the developer tenant.
           
           If you're joining the program with your Visual Studio standard Professional or standard Enterprise subscription, your subscription is automatically renewed until your Visual Studio subscription expires. 
           
